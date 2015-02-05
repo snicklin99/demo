@@ -1,0 +1,11 @@
+{
+    "name": "debSqueeze64",
+    "description": "Debian Squeeze amd64 with Puppet, Chef and VirtualBox",
+    "versions": [{
+    "version": "1.0.0",
+    "providers": [{
+        "name": "virtualbox",
+        "url": "http://f.willianfernandes.com.br/vagrant-boxes/DebianSqueeze64.box"
+    }]
+  }]
+}
